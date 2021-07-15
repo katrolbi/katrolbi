@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kasia.
-- 👀 I’m interested in adventures, anime, cooking, animals and learining new things. I love to challange myself and fight with my weakness.
+- 👀 I’m interested in adventures and learining new things. I love to challange myself and fight with my weakness.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me rolbiecka.k@gmail.com
